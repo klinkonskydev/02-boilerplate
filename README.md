@@ -26,4 +26,14 @@ next-boilerplate project provides a lot of features out of the box. Here's an ov
 
 * **[Jest](https://jestjs.io/)** - Jest is a JavaScript testing framework maintained by Facebook, Inc., designed and built by Christoph Nakazawa with a focus on simplicity and support for large web applications. It works with projects using Babel, TypeScript, Node.js, React, Angular, Vue.js and Svelte. 
 
-* **[Eslint](https://eslint.org/)** - ESLint is a static code analysis tool for identifying problematic patterns found in JavaScript code
+* **[Eslint](https://eslint.org/)** - ESLint is a static code analysis tool for identifying problematic patterns found in JavaScript code.
+
+* **[Prettier](https://prettier.io/)** - Prettier is an opinionated code formatter.
+
+* **[EditorConfig](https://editorconfig.org/)** - The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles. 
+
+* **[Husky](https://typicode.github.io/husky/#/)** - You can use it to lint your commit messages, run tests, lint code, etc... when you commit or push. Husky supports all Git hooks.
+
+* **[StoryBook](https://storybook.js.org/)** - Storybook is an open source tool for building UI components and pages in isolation. It streamlines UI development, testing, and documentation.
+
+* **[PWA](https://web.dev/progressive-web-apps/)** - A progressive web application, commonly known as a progressive web app, is a type of application software delivered through the web, built using common web technologies including HTML, CSS, JavaScript, and WebAssembly.

@@ -15,7 +15,6 @@ This boilerplate makes it easier to get up and running with a well-structured Ne
 
 ## Features
 
-
 next-boilerplate project provides a lot of features out of the box. Here's an overview of the included components and tools.
 
 * **[NextJS](https://nextjs.org/)** - Next.js is an open-source development framework built on top of Node.js enabling React based web applications functionalities such as server-side rendering and generating static websites."
@@ -38,9 +37,12 @@ next-boilerplate project provides a lot of features out of the box. Here's an ov
 
 * **[PWA](https://web.dev/progressive-web-apps/)** - A progressive web application, commonly known as a progressive web app, is a type of application software delivered through the web, built using common web technologies including HTML, CSS, JavaScript, and WebAssembly.
 
-## Create Next Aplication with this boilerplate: 
+<br />
 
+## Create Next App using this boilerplate: 
 
 ```js
   yarn create next-app -e https://github.com/klinkonskydev/02-boilerplate
 ```
+
+<br />

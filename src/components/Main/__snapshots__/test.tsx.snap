@@ -1,9 +1,71 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Main /> should render the heading 1`] = `
-<main>
-  <h1>
-    I am a test
+.c0 {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  color: #fff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding: 3rem;
+  background-color: #06092b;
+}
+
+.c1 {
+  width: 25rem;
+  margin-bottom: 2.5rem;
+}
+
+.c2 {
+  font-size: 2.5rem;
+}
+
+.c3 {
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+.c4 {
+  margin-top: 3rem;
+  width: min(30rem,100%);
+}
+
+<main
+  class="c0"
+>
+  <img
+    alt="Imagem de um átomo e React avançado escrito ao lado"
+    class="c1"
+    src="/img/logo.svg"
+  />
+  <h1
+    class="c2"
+  >
+    React Avançado
   </h1>
+  <h2
+    class="c3"
+  >
+    Typescript, ReactJS, NextJS e Styled Components
+  </h2>
+  <img
+    alt="um desenvolvedor de frente com o código"
+    class="c4"
+    src="/img/hero-illustration.svg"
+  />
 </main>
 `;

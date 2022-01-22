@@ -37,3 +37,10 @@ next-boilerplate project provides a lot of features out of the box. Here's an ov
 * **[StoryBook](https://storybook.js.org/)** - Storybook is an open source tool for building UI components and pages in isolation. It streamlines UI development, testing, and documentation.
 
 * **[PWA](https://web.dev/progressive-web-apps/)** - A progressive web application, commonly known as a progressive web app, is a type of application software delivered through the web, built using common web technologies including HTML, CSS, JavaScript, and WebAssembly.
+
+## Create Next Aplication with this boilerplate: 
+
+
+```js
+  yarn create next-app -e https://github.com/klinkonskydev/02-boilerplate
+```
